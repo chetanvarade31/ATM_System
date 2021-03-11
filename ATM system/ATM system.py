@@ -15,15 +15,6 @@ date = present.date()
 day = present.strftime("%A")
 
 
-
-global var1
-global var2
-global var3
-global var4
-global var5
-global var6
-global var7
-
 class Events():
    
     def __init__(self,win):
